@@ -1,0 +1,4 @@
+# Q. Write a program to detect double spaces in a string
+string = input("Enter String: ")
+res = "  " in string
+print("Does string contain spaces ? " + str(res))
