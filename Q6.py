@@ -6,4 +6,4 @@ print("Length of the input string is:", len(str))
 # Output:
 
 # Enter a string: Rohit Jain
-# Length of the input string is: 9
+# Length of the input string is: 10
